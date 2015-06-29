@@ -1,9 +1,5 @@
-Algorithms
+LeetCode
 ==========
-This is for Algorithm studies.
-#######title
-######title
-#####title
 ```
-hello world
+LeetCode...My sulution
 ```
