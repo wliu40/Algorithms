@@ -1,5 +1,5 @@
 LeetCode
 ==========
 ```
-LeetCode...My sulution
+LeetCode...My solution
 ```
